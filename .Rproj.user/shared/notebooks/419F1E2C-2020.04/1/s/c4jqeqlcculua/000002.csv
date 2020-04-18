@@ -1,0 +1,42 @@
+"0","source(""https://www.dropbox.com/s/cqg0h2i5sfxsh1f/studentEnvironmentReport.R?dl=1"",print.eval = T)"
+"2","Loading required package: readr
+"
+"2","there is no package called ��readr��"
+"2","WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+
+https://cran.rstudio.com/bin/windows/Rtools/
+"
+"1","Warning in "
+"1",""
+"1","install.packages"
+"1",""
+"1"," :
+  "
+"1",""
+"1","'lib = ""C:/Program Files/R/R-3.6.3/library""' is not writable"
+"1",""
+"1","
+"
+"1","Warning in "
+"1",""
+"1","install.packages"
+"1",""
+"1"," :
+  "
+"1",""
+"1","無法建立目錄 'C:\Users\j2619\OneDrive\??' ，原因是 'Invalid argument'"
+"1",""
+"1","
+"
+"1","Error in "
+"1",""
+"1","install.packages"
+"1",""
+"1"," : "
+"1",""
+"1","unable to create ‘C:/Users/j2619/OneDrive/??/R/win-library/3.6’"
+"1",""
+"1","
+"
+"2","Error in loadNamespace(name) : there is no package called ‘readr’
+"

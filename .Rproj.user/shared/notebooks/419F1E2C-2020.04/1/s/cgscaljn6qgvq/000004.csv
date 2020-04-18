@@ -1,0 +1,17 @@
+"0","c(T,F,F,"
+"0","  F,T,F,"
+"0","  F,F,F,"
+"0","  T,F,F,"
+"0","  F,T)->selectedMarkets"
+"0","str(taipeiNightMarkets[c(T,F,F,"
+"0","  F,T,F,"
+"0","  F,F,F,"
+"0","  T,F,F,"
+"0","  F,T)],max.level = 1"
+"0",""
+"2","錯誤: Incomplete expression: str(taipeiNightMarkets[c(T,F,F,
+  F,T,F,
+  F,F,F,
+  T,F,F,
+  F,T)],max.level = 1
+"

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586954637053.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "753A067B",
+    "lastKnownWriteTime" : 1586789399,
+    "last_content_update" : 1586789399,
+    "path" : "~/GitHub/108-2-56-inclass-practice/homework1-410873090.Rmd",
+    "project_path" : "homework1-410873090.Rmd",
+    "properties" : {
+        "cursorPosition" : "44,3",
+        "last_setup_crc32" : "",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
