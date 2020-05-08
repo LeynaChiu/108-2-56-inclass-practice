@@ -111,6 +111,7 @@ factor是從1開始的整數，沒有0喔。
 logical儲存的本質是甚麼?
 ```{r ans23}
 # ntpu_econtpu_eco
+ntpu_econtpu_eco
 ```
 
 ### 2.4 %in%
